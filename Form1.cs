@@ -31,7 +31,7 @@ namespace ElasticBot
             /* var text = InputConnectTextBox.Text;
                  ElasticBot bot = new ElasticBot();
                  bot.TestApiAsync();*/
-            string s;
+         
             string oracleDbConnection = "Data Source=(DESCRIPTION="
                                                  + "(ADDRESS_LIST="
                                                          + "(ADDRESS="
