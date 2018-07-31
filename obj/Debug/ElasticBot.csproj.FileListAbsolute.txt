@@ -1,0 +1,17 @@
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\obj\Debug\ElasticBot.csprojAssemblyReference.cache
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\obj\Debug\ElasticBot.Properties.Resources.resources
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\obj\Debug\ElasticBot.csproj.GenerateResource.cache
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\obj\Debug\ElasticBot.csproj.CoreCompileInputs.cache
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\bin\Debug\ElasticBot.exe.config
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\bin\Debug\ElasticBot.exe
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\bin\Debug\ElasticBot.pdb
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\bin\Debug\NetTelegramBotApi.dll
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\bin\Debug\Telegram.Bot.xml
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\obj\Debug\ElasticBot.csproj.CopyComplete
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\obj\Debug\ElasticBot.exe
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\obj\Debug\ElasticBot.pdb
+C:\Users\Krivoshchekov\source\repos\ElasticBot\ElasticBot\obj\Debug\ElasticBot.Form1.resources
